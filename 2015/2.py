@@ -14,7 +14,7 @@ All numbers in the elves' list are in feet. How many total square feet of wrappi
 data = ""
 total = 0
 
-with  open ( "2_input" ,  "r" )  as  file:
+with  open ( "2" ,  "r" )  as  file:
     data = file.read()
 
 def count_feets(l,w,h):

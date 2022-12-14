@@ -27,7 +27,7 @@ To begin, get your puzzle input.
 data = ""
 floor = 0
 
-with  open ( "1_input" ,  "r" )  as  file:
+with  open ( "1" ,  "r" )  as  file:
     data = file.read()
 
 for char in data.strip():

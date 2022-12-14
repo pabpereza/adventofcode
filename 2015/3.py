@@ -16,7 +16,7 @@ For example:
 data = ""
 houses = {}
 
-with  open ( "3_input" ,  "r" )  as  file:
+with  open ( "3" ,  "r" )  as  file:
     data = file.read()
 
 x_position = 0
